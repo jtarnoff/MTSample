@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Midtronics Sample</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_countries">Countries</string>
+    <string name="title_country">Country</string>
+    <string name="choose_a_country">Choose a country</string>
+    <string name="label_work_experience">Work Experience</string>
+    <string name="label_education">Education</string>
+</resources>
